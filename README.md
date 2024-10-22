@@ -7,6 +7,9 @@
   </a>
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0435811-b33e-433a-9144-5aabb3d0ef35" alt="image" />
 </p>
@@ -47,6 +50,26 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cpp,cloudflare,debian,ai,kali,latex,obsidian,php,ubuntu&perline=14" />
 </p>
+
+<!--horizontal divider(gradiant)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
+<br />
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrl3y&layout=compact&theme=dark&bg_color=0A0A0A" alt="xrl3y Top Languages"/>
+</p>
+<br />
+
+-->
+
+
+
 
 
 <br>
