@@ -7,6 +7,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2686635d-539b-4ec6-9210-13409a3ed870" alt="image" />
+</p>
+
+
+
+
+
 <br>
 <h1>About Me! 😈</h1>
 
