@@ -29,7 +29,7 @@
 - 🤔: I’m looking for opportunities to collaborate on cybersecurity and tech projects! 
 - 💬: Ask me about cybersecurity practices, programming, and virtual environments. 🔒👨‍💻
 - ⚡ Fun fact: I enjoy solving challenges and participating in Capture The Flag (CTF) competitions! 🎯
-  
+- 🌍: My native language is Spanish, I have a B2 level in English, and I'm currently learning Italian. 
 <hr>
 <br>
 
