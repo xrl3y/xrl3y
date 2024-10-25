@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cpp,cloudflare,debian,ai,kali,latex,obsidian,php,ubuntu&perline=14" />
 </p>
 
-<!--horizontal divider(gradiant)
+<!--horizontal divider(gradiant)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -66,7 +66,7 @@
 </p>
 <br />
 
--->
+
 
 
 
