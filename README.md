@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cpp,cloudflare,debian,ai,kali,latex,obsidian,php,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cpp,cloudflare,debian,kali,latex,obsidian,php,ubuntu&perline=14" />
 </p>
 
 <!--horizontal divider(gradiant)-->
