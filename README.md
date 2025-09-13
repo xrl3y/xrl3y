@@ -22,7 +22,7 @@
 <br>
 <h1>About Me! 😈</h1>
 
-- 🏫: I’m currently studying Systems Engineering at EAN University.
+- 🏫: I’m a Systems Engineer at EAN University.
 - 🕵️‍♂️: I’m an Ethical Hacker passionate about cybersecurity.
 - 💻: I’m a Tech Creator with experience in Linux, Python, Bash, and virtual machines.
 - 🌱: I’m always eager to learn new technologies and improve my skills.
