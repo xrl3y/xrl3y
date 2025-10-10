@@ -17,8 +17,6 @@
 
 
 
-
-
 <br>
 <h1>About Me! 😈</h1>
 
@@ -102,6 +100,7 @@
   </a>
 </p>
 
+
 <!--profile visit count
 <div align="center">
   
@@ -115,3 +114,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img src="./xrl3y.gif" alt="xrl3y intro" width="400" />
+</p>
