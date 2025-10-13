@@ -76,10 +76,34 @@
 <h1>Certifications! 🏆</h1>
 <br>
 
-|[![](https://img.shields.io/badge/Análisis%20de%20Vulnerabilidades%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Análisis_de_Vulnerabilidades_BTA.jpg)|[![](https://img.shields.io/badge/Cápsula%20Phishing-%20EAN-red?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Cápsula_Phishing.jpg)|[![](https://img.shields.io/badge/Ciberseguridad%20-%20EAN-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Cibersecurity_Awareness.jpg)|[![](https://img.shields.io/badge/Ethical%20Hacker%20-%20Cisco-blue?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Ethical_Hacker_Badge_Sep2024.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Explotación%20de%20Vulnerabilidades-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Explotación_de_Vulnerabilidades_BTA.jpg)|[![](https://img.shields.io/badge/Wireshark-%20BTA-blue?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Wireshark_BTA.jpg)|[![](https://img.shields.io/badge/Inteligencia%20de%20Amenazas-%20BTA-red?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Inteligencia_de_Amenazas_BTA.jpg)|[![](https://img.shields.io/badge/Introducción%20a%20Linux-%20Hack4u-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Introducción_a_Linux_Hack4u.jpg)|[![](https://img.shields.io/badge/Ciberseguridad%20-%20Retos-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Ciberseguridad_Retos.jpg)|
-|[![](https://img.shields.io/badge/Recolección%20de%20Información-%20BTA-red?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Recolección_de_Información_BTA.jpg)|[![](https://img.shields.io/badge/Remote%20Work-%20ProCert-blue?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Remote_Work_ProCert.jpg)|[![](https://img.shields.io/badge/WireShark%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/WireShark_Pentesting.jpg)|[![](https://img.shields.io/badge/Retos%20Hacking%20Web-%20BTA-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Retos_Hacking_Web_BTA.jpg)|
+- 🟧 **BTA (BackTrack Academy)** → Technical and specialized courses focused on *pentesting*, *red teaming*, and *ethical hacking*.
+
+- 🟩 **EAN (EAN University)** → Academic programs and learning capsules about *enterprise cybersecurity*, *sustainable entrepreneurship*, and *digital awareness*.
+
+- 🟦 **CISCO Networking Academy** → International certifications focused on *networking*, *cybersecurity*, and *ethical hacking* fundamentals.
+
+- 🟪 **Hack4u** → Practical technical training in *ethical hacking*, *Linux*, *offensive scripting*, and *lab environments*.
+
+- ⚪ **ULA Language Center** → *Advanced English* certification focused on professional communication in technological environments.
+
+---
+  
+
+<div align="center">
+
+| [![](https://img.shields.io/badge/Vulnerability%20Analysis%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/AnalisisDeVulnerabilidades-BackTrackAcademy.jpg) | [![](https://img.shields.io/badge/Vulnerability%20Exploitation%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/ExplotacionDeVulnerabilidades-BackTrackAcademy.jpg) | [![](https://img.shields.io/badge/Cyber%20Threat%20Intelligence%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/InteligenciaDeAmenazasCiberneticas_BackTrackAcademy.jpg) |
+|:---:|:---:|:---:|
+| [![](https://img.shields.io/badge/Information%20Gathering%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/RecoleccionDelInformacion-BackTrackAcademy.jpg) | [![](https://img.shields.io/badge/Remote%20Work%20Professional%20Certification%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Remote-Work-ProfessionalCertification-BackTrackAcademy.jpg) | [![](https://img.shields.io/badge/Web%20Hacking%20Challenges%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/RetosHackingWeb-BackTrackAcademy.jpg) |
+| [![](https://img.shields.io/badge/Wireshark%20for%20Pentesters%20-%20BTA-orange?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/WireSharkParaPentester-BackTrackAcademy.jpg) | [![](https://img.shields.io/badge/Phishing%20Capsule%20-%20EAN-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Capsula%20(Phishing)_EAN.jpg) | [![](https://img.shields.io/badge/Sustainability%20%26%20Entrepreneurship%20-%20EAN-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/CertificadoSostenibilidadEmprendimientoSostenible_EAN.jpg) |
+| [![](https://img.shields.io/badge/Cybersecurity%20Awareness%20-%20EAN-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Cibersecurity-Awareness-ProfessionalCertification.jpg) | [![](https://img.shields.io/badge/Enterprise%20Cybersecurity%20-%20EAN-green?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Ciberseguridad%20Empresarial_EAN.jpg) | [![](https://img.shields.io/badge/Certified%20Ethical%20Hacker%20-%20CISCO-blue?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Certified_Ethical_Hacker_CISCO.jpg) |
+| [![](https://img.shields.io/badge/Introduction%20to%20Cybersecurity%20-%20CISCO-blue?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Introduction_to_Cybersecurity_CISCO.jpg) | [![](https://img.shields.io/badge/Introduction%20to%20Hacking%20-%20Hack4u-purple?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/IntroduccionAlHacking_Hack4u.jpg) | [![](https://img.shields.io/badge/Introduction%20to%20Linux%20-%20Hack4u-purple?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Introduction-a-Linux_Hack4u.io.jpg) |
+| [![](https://img.shields.io/badge/Linux%20Environment%20Customization%20-%20Hack4u-purple?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Personalizacion-de-Entorno-en-Linux_Hack4u.io.jpg) | [![](https://img.shields.io/badge/Offensive%20Python%20-%20Hack4u-purple?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Python-Ofensivo_Hack4u.io.jpg) | [![](https://img.shields.io/badge/Advanced%20English%20-%20ULA-lightgrey?style=for-the-badge)](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Certificates/Advanced-English-Certificate_ULA.jpg) |
+
+
+</div>
+
+
+
 
 
 <!-- Connect with me -->
