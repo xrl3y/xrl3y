@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0435811-b33e-433a-9144-5aabb3d0ef35" alt="image" />
+  <img src="https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/1-Photoroom-Final.png" alt="xrl3y" width="300">
 </p>
 
 
