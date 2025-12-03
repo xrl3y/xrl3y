@@ -57,13 +57,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 
-<br />
-<br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrl3y&layout=compact&theme=dark&bg_color=0A0A0A&cache_seconds=1800" alt="xrl3y Top Languages"/>
-</p>
-<br />
+  <img src="https://github-readme-stats-livid-ten-75.vercel.app/api/top-langs/?username=xrl3y&layout=compact&theme=radical" />
+  <!-- <img src="https://github-readme-stats-livid-ten-75.vercel.app/api?username=xrl3y&show_icons=true&theme=radical" />   $$ Comentar Linea de Estaditicas -->
 
+</p>
 
 
 
