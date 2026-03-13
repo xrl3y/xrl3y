@@ -58,10 +58,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-livid-ten-75.vercel.app/api/top-langs/?username=xrl3y&layout=compact&theme=radical" />
-  <!-- <img src="https://github-readme-stats-livid-ten-75.vercel.app/api?username=xrl3y&show_icons=true&theme=radical" />   $$ Comentar Linea de Estaditicas -->
+  <p align="center">
+  <img src="https://github-readme-stats-vn51.vercel.app/api/top-langs/?username=xrl3y&layout=compact&theme=radical" />
+ <!-- <img src="https://github-readme-stats-vn51.vercel.app/api?username=xrl3y&show_icons=true&theme=radical" /> $$ Comentar Linea de Estaditicas -->
+</p>   
 
-</p>
+
 
 
 
