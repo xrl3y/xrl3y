@@ -119,11 +119,12 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/xrl3y/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
+  <a href="https://www.linkedin.com/in/xrl3y/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:contacto.arleyg@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="50" />
   </a>
 </p>
 
